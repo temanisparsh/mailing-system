@@ -1,0 +1,9 @@
+{
+    "app": {
+        "jwtSecret": "ghasvhfvbkadhvbjhbasdvkjvbawfvawuev",
+        "hashSalt": "jdgzrubawefuibyaweiyqugy2387q34879gq3784978qb987q3",
+        "host": "127.0.0.1",
+        "port": 5000
+    },
+    "dbUrl": "mongodb://127.0.0.1:27017/mailing_system"
+}
